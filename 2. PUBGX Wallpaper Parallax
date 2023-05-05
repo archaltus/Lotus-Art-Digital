@@ -3,8 +3,8 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"STARTAPP",
-      "main_ads_banner": "ca-app-pub-8688071224019224/5599753337",
-      "main_ads_intertitial":"ca-app-pub-8688071224019224/5623804067",
+      "main_ads_banner": "ca-app-pub-1758793991271666/9040812032",
+      "main_ads_intertitial":"ca-app-pub-1758793991271666/5536681296",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "interval_intertitial": 5,
