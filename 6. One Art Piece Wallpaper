@@ -63,6 +63,10 @@
     {
       "name_category": "Live Wallpaper",
       "wallpaper_url": "https://i.pinimg.com/736x/c3/40/d4/c340d4401cccfa080870b551f205d344.jpg"
+    },
+    {
+      "name_category": "Gear 5",
+      "wallpaper_url": "https://i.pinimg.com/originals/d2/1b/89/d21b8983ae7d10a2c7c4fd284868ea12.jpg"
     }
   ],
   "Wallpaper": [
@@ -1563,6 +1567,83 @@
       "wallpaper_name": "item224",
       "wallpaper_type": "MP4",
       "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/ec/97/d7/ec97d7894e2faeb7de5a90b4bd571363.mp4"
+    },
+    {
+      "id": 225,
+      "name_category": "Gear 5",
+      "wallpaper_name": "item225",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/ac/a8/fb/aca8fb4c49c602c2975de8cc6b970b7b.jpg"
+    },
+    {
+      "id": 226,
+      "name_category": "Gear 5",
+      "wallpaper_name": "item226",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e6/6e/c2/e66ec2f92ffbad1652b8db9086ede129.jpg"
+    },
+    {
+      "id": 227,
+      "name_category": "Gear 5",
+      "wallpaper_name": "item227",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/94/6f/ef/946fefb6a0d19e48b8fd82d616437235.jpg"
+    },
+    {
+      "id": 228,
+      "name_category": "Gear 5",
+      "wallpaper_name": "item228",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/b3/59/1b/b3591baf12260bcb9ee46777b742dc2d.jpg"
+    },
+    {
+      "id": 229,
+      "name_category": "Gear 5",
+      "wallpaper_name": "item229",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/9e/86/1a/9e861acd074dc74d72a1f1a31aec487a.jpg"
+    },
+    {
+      "id": 230,
+      "name_category": "Gear 5",
+      "wallpaper_name": "item230",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/6c/69/71/6c69710dbb519f8ddedf388b3aef1e61.jpg"
+    },
+    {
+      "id": 231,
+      "name_category": "Gear 5",
+      "wallpaper_name": "item231",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/6c/8b/b5/6c8bb5b329e0ff5ea3d829e666a70cd1.jpg"
+    },
+    {
+      "id": 232,
+      "name_category": "Gear 5",
+      "wallpaper_name": "item232",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/1a/8f/dc/1a8fdca3b19641edd282762f6a7ed916.jpg"
+    },
+    {
+      "id": 233,
+      "name_category": "Gear 5",
+      "wallpaper_name": "item233",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/40/1f/47/401f47f4ab436ce9a78cf6ade9fbc8d7.jpg"
+    },
+    {
+      "id": 234,
+      "name_category": "Gear 5",
+      "wallpaper_name": "item234",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/ad/f0/9d/adf09dc7d9fef515bd4dbfdb721a3d4b.jpg"
+    },
+    {
+      "id": 235,
+      "name_category": "Gear 5",
+      "wallpaper_name": "item235",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/ab/f4/99/abf499b5726bb1bbf0cab4b392a2c8e4.jpg"
     }
 
   ]
