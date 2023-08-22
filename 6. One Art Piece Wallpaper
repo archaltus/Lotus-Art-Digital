@@ -2,21 +2,27 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"STARTAPP",
-        "main_ads_banner": "ca-app-pub-1758793991271666/3022198594",
-      "main_ads_intertitial":"ca-app-pub-1758793991271666/5344259548",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"null",
+      "backup_ads_intertitial":"null",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "open_ads_wortise":"",
       "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"204188151",
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
       "status_app": "0",
-      "link_redirect": "https://play.google.com/store/apps/details?id=com.lotusartdigital.oneartpiecewallpaper"
+      "link_redirect": "https://play.google.com/store/apps/details?id="
     }
   ],
   "Categories": [
